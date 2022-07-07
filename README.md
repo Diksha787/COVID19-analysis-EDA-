@@ -17,19 +17,19 @@
   As of 30 January 2020, approximately 8,243 cases have been confirmed
   Columns :
 
-  Country/Region : This cloumn indicate the country or regions name.
-  Confirmed : This column represent the confirmed cases.
-  Deaths : This column represent the death cases.
-  Recovered : This column represent the information regarding the recorved person.
-  Active : Number of active cases.
-  New cases : Number of new cases.
-  New deaths : New deaths cases.
-  New recovered : Newly recovered.
-  Deaths / 100 Cases : Count of death for every 100 people.
-  Recovered / 100 Cases : Recorved by 100 people
-  Deaths / 100 Recovered :
-  Confirmed last week : Cases that are confirmed in last week
-  1 week change : changes in first week
-  1 week % increase : percetage of cases increased in 1 week
-  WHO Region : Region name
-check notebook for more...
+          Country/Region : This cloumn indicate the country or regions name.
+          Confirmed : This column represent the confirmed cases.
+          Deaths : This column represent the death cases.
+          Recovered : This column represent the information regarding the recorved person.
+          Active : Number of active cases.
+          New cases : Number of new cases.
+          New deaths : New deaths cases.
+          New recovered : Newly recovered.
+          Deaths / 100 Cases : Count of death for every 100 people.
+          Recovered / 100 Cases : Recorved by 100 people
+          Deaths / 100 Recovered :
+          Confirmed last week : Cases that are confirmed in last week
+          1 week change : changes in first week
+          1 week % increase : percetage of cases increased in 1 week
+          WHO Region : Region name
+    check notebook for more...
